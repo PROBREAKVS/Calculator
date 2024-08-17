@@ -8,6 +8,7 @@ Simple calculator written on C++
 What's working?
 
 -Area calculation
+
 -Perimeter calculation
 
 
@@ -17,4 +18,5 @@ What's working?
 Что работает?
 
 -Расчет площади
+
 -Расчет периметра
